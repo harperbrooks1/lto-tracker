@@ -1,0 +1,3 @@
+robots.txt and sitemap.xml are generated automatically by Next.js
+from src/app/robots.ts and src/app/sitemap.ts.
+You do not need to create them manually. This file can be deleted.

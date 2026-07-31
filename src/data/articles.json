@@ -1,0 +1,58 @@
+{
+  "articles": [
+    {
+      "id": "art-1",
+      "title": "How to Renew Your LTO Vehicle Registration in 2026",
+      "excerpt": "A complete step-by-step guide to renewing your motor vehicle registration, including requirements, fees, and the renewal schedule based on your plate number.",
+      "slug": "renew-vehicle-registration",
+      "category": "Registration",
+      "readTime": 8,
+      "publishedAt": "2026-06-15"
+    },
+    {
+      "id": "art-2",
+      "title": "LTO Driver's License Renewal: Requirements and Process",
+      "excerpt": "Everything you need to know about renewing your driver's license, from medical exams to the new 10-year validity period.",
+      "slug": "drivers-license-renewal",
+      "category": "License",
+      "readTime": 7,
+      "publishedAt": "2026-06-20"
+    },
+    {
+      "id": "art-3",
+      "title": "Understanding the LTO Plate Number Coding System",
+      "excerpt": "Learn how Philippine plate numbers are structured, what the letters and numbers mean, and how they affect your registration schedule.",
+      "slug": "plate-number-coding-system",
+      "category": "Registration",
+      "readTime": 6,
+      "publishedAt": "2026-07-01"
+    },
+    {
+      "id": "art-4",
+      "title": "How to Transfer Vehicle Ownership at the LTO",
+      "excerpt": "A practical guide to transferring vehicle ownership, including the Deed of Sale, required clearances, and estimated processing times.",
+      "slug": "transfer-vehicle-ownership",
+      "category": "Registration",
+      "readTime": 9,
+      "publishedAt": "2026-07-10"
+    },
+    {
+      "id": "art-5",
+      "title": "LTO Fees and Penalties: A Complete 2026 Breakdown",
+      "excerpt": "Understand the current LTO fees for registration, licensing, and common penalties for late renewals and violations.",
+      "slug": "lto-fees-penalties",
+      "category": "Fees",
+      "readTime": 10,
+      "publishedAt": "2026-07-18"
+    },
+    {
+      "id": "art-6",
+      "title": "What to Do If You Lose Your Certificate of Registration",
+      "excerpt": "Lost your CR or OR? Here's how to request a replacement, the documents you'll need, and how to avoid processing delays.",
+      "slug": "lost-certificate-registration",
+      "category": "Documents",
+      "readTime": 5,
+      "publishedAt": "2026-07-25"
+    }
+  ]
+}

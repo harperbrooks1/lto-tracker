@@ -1,0 +1,171 @@
+{
+  "transactions": [
+    {
+      "id": "txn-001",
+      "searchType": "plate",
+      "searchValue": "ABC1234",
+      "transactionType": "Motor Vehicle Registration Renewal",
+      "currentStatus": "for-release",
+      "referenceNumber": "LTO-2026-0001234",
+      "officeLocation": "LTO District Office - Quezon City East",
+      "estimatedCompletion": "2026-08-05",
+      "nextAction": "Visit the LTO office with a valid ID to claim your Certificate of Registration and stickers.",
+      "notes": [
+        "Bring the original Official Receipt for verification.",
+        "Claiming hours are 8:00 AM to 5:00 PM on weekdays.",
+        "The registered owner or an authorized representative with an SPA may claim."
+      ],
+      "contactInfo": {
+        "hotline": "1342",
+        "email": "info@lto.gov.ph"
+      },
+      "timeline": [
+        {
+          "date": "2026-07-28",
+          "time": "09:15 AM",
+          "title": "Application Received",
+          "description": "Renewal application submitted and payment confirmed.",
+          "location": "LTO District Office - Quezon City East",
+          "status": "pending"
+        },
+        {
+          "date": "2026-07-29",
+          "time": "02:30 PM",
+          "title": "Under Processing",
+          "description": "Documents verified and forwarded for encoding.",
+          "location": "LTO District Office - Quezon City East",
+          "status": "in-progress"
+        },
+        {
+          "date": "2026-07-31",
+          "time": "10:45 AM",
+          "title": "Ready for Release",
+          "description": "Certificate of Registration and stickers are ready for claiming.",
+          "location": "LTO District Office - Quezon City East",
+          "status": "for-release"
+        }
+      ]
+    },
+    {
+      "id": "txn-002",
+      "searchType": "mv-file",
+      "searchValue": "1234567890",
+      "transactionType": "Change of Ownership Transfer",
+      "currentStatus": "in-progress",
+      "referenceNumber": "LTO-2026-0005678",
+      "officeLocation": "LTO District Office - Makati",
+      "estimatedCompletion": "2026-08-10",
+      "nextAction": "No action needed right now. Please wait for the next status update or check again in 2-3 business days.",
+      "notes": [
+        "Transfer of ownership typically takes 5-7 business days.",
+        "You will be notified when documents are ready for release.",
+        "Ensure the Deed of Sale and clearance documents remain valid."
+      ],
+      "contactInfo": {
+        "hotline": "1342",
+        "email": "info@lto.gov.ph"
+      },
+      "timeline": [
+        {
+          "date": "2026-07-27",
+          "time": "11:00 AM",
+          "title": "Application Received",
+          "description": "Transfer of ownership request submitted with supporting documents.",
+          "location": "LTO District Office - Makati",
+          "status": "pending"
+        },
+        {
+          "date": "2026-07-30",
+          "time": "03:20 PM",
+          "title": "Under Processing",
+          "description": "Documents are being verified and encoded into the system.",
+          "location": "LTO District Office - Makati",
+          "status": "in-progress"
+        }
+      ]
+    },
+    {
+      "id": "txn-003",
+      "searchType": "license",
+      "searchValue": "N0123456789",
+      "transactionType": "Driver's License Renewal",
+      "currentStatus": "on-hold",
+      "referenceNumber": "LTO-2026-0009012",
+      "officeLocation": "LTO Licensing Center - Pasig",
+      "estimatedCompletion": "2026-08-15",
+      "nextAction": "Complete the required medical certificate submission to continue processing your license renewal.",
+      "notes": [
+        "A valid medical certificate from an LTO-accredited clinic is required.",
+        "Your transaction will resume once the missing requirement is submitted.",
+        "Please submit within 15 days to avoid cancellation."
+      ],
+      "contactInfo": {
+        "hotline": "1342",
+        "email": "info@lto.gov.ph"
+      },
+      "timeline": [
+        {
+          "date": "2026-07-25",
+          "time": "08:45 AM",
+          "title": "Application Received",
+          "description": "License renewal application submitted.",
+          "location": "LTO Licensing Center - Pasig",
+          "status": "pending"
+        },
+        {
+          "date": "2026-07-26",
+          "time": "01:10 PM",
+          "title": "Placed On Hold",
+          "description": "Missing medical certificate. Additional requirement needed.",
+          "location": "LTO Licensing Center - Pasig",
+          "status": "on-hold"
+        }
+      ]
+    },
+    {
+      "id": "txn-004",
+      "searchType": "plate",
+      "searchValue": "NAB5678",
+      "transactionType": "New Vehicle Registration",
+      "currentStatus": "released",
+      "referenceNumber": "LTO-2026-0003456",
+      "officeLocation": "LTO District Office - Cebu City",
+      "nextAction": "No further action needed. Your registration has been completed and documents released.",
+      "notes": [
+        "Keep your Certificate of Registration and Official Receipt in the vehicle at all times.",
+        "Your next renewal will be based on the plate number ending digit schedule.",
+        "Report any discrepancies within 30 days of release."
+      ],
+      "contactInfo": {
+        "hotline": "1342",
+        "email": "info@lto.gov.ph"
+      },
+      "timeline": [
+        {
+          "date": "2026-07-20",
+          "time": "09:00 AM",
+          "title": "Application Received",
+          "description": "New vehicle registration submitted with complete documents.",
+          "location": "LTO District Office - Cebu City",
+          "status": "pending"
+        },
+        {
+          "date": "2026-07-22",
+          "time": "10:30 AM",
+          "title": "Under Processing",
+          "description": "Vehicle inspection completed and documents encoded.",
+          "location": "LTO District Office - Cebu City",
+          "status": "in-progress"
+        },
+        {
+          "date": "2026-07-24",
+          "time": "02:00 PM",
+          "title": "Documents Released",
+          "description": "Certificate of Registration, plates, and stickers released to owner.",
+          "location": "LTO District Office - Cebu City",
+          "status": "released"
+        }
+      ]
+    }
+  ]
+}

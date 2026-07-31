@@ -1,0 +1,52 @@
+{
+  "faqs": [
+    {
+      "id": "faq-1",
+      "question": "What is the LTO Tracker and how does it work?",
+      "answer": "The LTO Tracker is a free guidance tool that helps you understand the typical status and next steps of common LTO transactions such as vehicle registration, transfer of ownership, and driver's license renewal. You enter your plate number, MV file number, or driver's license number, and the tool explains what each status means and what you should do next. It does not connect to live official LTO records.",
+      "category": "general"
+    },
+    {
+      "id": "faq-2",
+      "question": "Is this the official LTO website?",
+      "answer": "No. TheLTOPortal.ph is an independent informational resource and is not affiliated with, endorsed by, or operated by the Land Transportation Office or any government agency. For official transactions and records, always visit the official LTO website at lto.gov.ph or your nearest LTO office.",
+      "category": "general"
+    },
+    {
+      "id": "faq-3",
+      "question": "Where do I find my plate number, MV file number, or license number?",
+      "answer": "Your plate number is displayed on your vehicle's license plates. Your MV file number appears on your Certificate of Registration (CR) and Official Receipt (OR). Your driver's license number is printed on the front of your plastic driver's license card, usually formatted like N01-23-456789.",
+      "category": "requirements"
+    },
+    {
+      "id": "faq-4",
+      "question": "What does each transaction status mean?",
+      "answer": "Common statuses include: Pending (received and awaiting verification), In Progress (currently being processed), For Release (ready to be claimed), Released or Completed (finished), On Hold (additional requirements needed), and Rejected or Cancelled (could not be completed). The tracker explains the meaning and recommended next action for each status you see.",
+      "category": "general"
+    },
+    {
+      "id": "faq-5",
+      "question": "How long does LTO vehicle registration renewal take?",
+      "answer": "In most cases, motor vehicle registration renewal is completed within the same day if all requirements are complete and there are no discrepancies. Processing times can vary depending on the office, volume of transactions, and completeness of your documents. Transfers of ownership typically take 5 to 7 business days.",
+      "category": "renewal"
+    },
+    {
+      "id": "faq-6",
+      "question": "What should I do if my transaction is on hold?",
+      "answer": "An On Hold status usually means a requirement is missing or a document needs correction. Review the notes shown with your result, prepare the missing requirement (such as a medical certificate or clearance), and submit it to the LTO office handling your transaction. Acting quickly helps avoid cancellation.",
+      "category": "general"
+    },
+    {
+      "id": "faq-7",
+      "question": "Do I need to pay to use this tracker?",
+      "answer": "No. The LTO Tracker is completely free to use. You do not need to create an account, log in, or provide any personal contact information to check status guidance.",
+      "category": "general"
+    },
+    {
+      "id": "faq-8",
+      "question": "Why can't I see my exact official record?",
+      "answer": "This tool provides status interpretation and guidance rather than live official data. It is designed to help you understand the LTO process and what to expect. For your exact, real-time official record, please contact the LTO hotline at 1342 or visit the LTO office handling your transaction.",
+      "category": "general"
+    }
+  ]
+}
